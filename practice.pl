@@ -1,2 +1,4 @@
 #!/usr/bin/perl
-print "HelloWorld";
+print 1.25e45."\n";
+print (10+1)."\n";
+print "\n";
