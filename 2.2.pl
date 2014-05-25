@@ -20,4 +20,5 @@ print "fred" x 3 ."\n";
 print 'fred' x 3 ."\n";
 
 # 2.2.4
-
+print '0377'."\n";
+print "12" * "3". "\n";
