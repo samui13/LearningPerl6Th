@@ -14,3 +14,10 @@ print "\LWWW\EWW\n";
 print "\Uwww\Eww\n";
 print "\Qwwww\n"."\n";
 
+# 2.2.3
+print 'hello World'."\n";
+print "fred" x 3 ."\n";
+print 'fred' x 3 ."\n";
+
+# 2.2.4
+
