@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-# -*- coding: utf-8; -*-f
+# -*- coding: utf-8; -*-
 use utf8;
 use strict;
 print 'fred'."\n";
